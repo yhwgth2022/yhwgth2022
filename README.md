@@ -1,8 +1,8 @@
 ### Hi there 👋
 Greeting!
 
-My name is Yuhong Wang.
-A Ph.D. student in computer science.
+###My name is Yuhong Wang.
+###A Ph.D. student in computer science.
 <!--
 **yhwgth2022/yhwgth2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
